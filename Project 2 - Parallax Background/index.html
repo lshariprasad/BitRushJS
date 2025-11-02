@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Parallax Background</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <!-- Canvas -->
+    <canvas id="canvas1"></canvas>
+
+    <!-- Slider Control -->
+    <div style="position: absolute; top: 10px; left: 10px; color: white; z-index: 10;">
+        <label for="slider">Game Speed:</label>
+        <input type="range" id="slider" min="0" max="100" step="0.1" value="2" />
+        <span id="showGameSpeed">2</span>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
