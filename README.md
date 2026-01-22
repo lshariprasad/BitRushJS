@@ -9,7 +9,6 @@ A lightweight endless runner game developed in vanilla JavaScript, featuring smo
 - ⚡ Frame-by-frame motion control  
 - 🕹️ Keyboard-controlled gameplay  
 - 💻 100% Vanilla JavaScript + HTML + CSS  
-
 ---
 
 ## 🚀 How to Play
