@@ -1,13 +1,7 @@
 # BitRushJS
 A lightweight endless runner game developed in vanilla JavaScript, featuring smooth animations, collision detection, and infinite terrain generation.
 
-# 🐾 Endless Dog Runner
-
-Run, jump, and sprint through endless adventures with your loyal **Shadow Dog!**  
-An **infinite runner game** made with **pure JavaScript**, **HTML5 Canvas**, and **CSS3** — no libraries, just logic and speed. ⚡  
-
 ---
-
 ## 🎮 Features
 
 - 🐶 Smooth sprite-based dog animation  
